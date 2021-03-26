@@ -1,1 +1,1 @@
-# Lucky-Survival-Server-Online-Map-new
+# Lucky Survival Minecraft Server
