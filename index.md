@@ -3,12 +3,11 @@
 
 # Online Server Map:
 # [Click Here](https://bit.ly/3soE3g6)
-##
-##
-##
 
-## Lucky Survival Is a Fun Server With Minigames, A town, Land Claims And So 
-## Much More
+
+
+
+## Lucky Survival Is a Fun Server With Minigames, A town, Land Claims And So Much More
 
 - Type some Markdown on the left
 - See HTML in the right
